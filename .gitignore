@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+probn_venv
+Include
+Lib
+Scripts
+share
+*.cfg
+.git
